@@ -1,0 +1,1 @@
+- The script is committed to code in [_scripts/phpcs-report.sh_](https://raw.githubusercontent.com/sdemi/drupal-docs/master/assets/phpcs-report.sh)
