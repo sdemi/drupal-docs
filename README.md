@@ -1,4 +1,4 @@
-For this documentation, we have picked Visual Studeio Code editor. It is a small based IDE that gives all the features a modern Drupal developer's needs. It's free and it has decent documentation online.
+For this documentation, we have picked Visual Studio Code editor. It is a small based IDE that gives all the features a modern Drupal developer's needs. It's free and it has decent documentation online.
 
 * Drupal presentation slides (private access)
   * [Why Drupal?](https://github.com/sdemi/drupal-docs-private/blob/master/slides-why-drupal.pptx)
