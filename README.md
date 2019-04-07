@@ -5,7 +5,7 @@ For this documentation, we have picked Visual Studio Code editor. It is a small 
   * [Drupal Architecture](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-arch.pptx)
   * [Software Stack](https://github.com/sdemi/drupal-docs-private/blob/master/slides-software-stack.pptx)
   * [Enterprise Infrastructure](https://github.com/sdemi/drupal-docs-private/blob/master/slides-enterprise-infrastructure.pptx)
-  * [Drupal vs. Custom Code](https://github.com/sdemi/drupal-docs-private/blob/master/sheet-drupal-code-count.xlsx)
+  * [Drupal vs. Custom Code](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-code-count.pptx)
 * Local environment
   * [Local environment setup using virtual host](https://github.com/sdemi/drupal-docs/blob/master/local-environment-setup-using-virtual-host.md)
   * [Setup Visual Studio Code with Drupal Coding Standards](https://github.com/sdemi/drupal-docs/blob/master/visual-studio-code.md)
