@@ -34,12 +34,15 @@ This is why companies like Apigee are choosing Drupal.
 Apigee offers a few options for an API Developer portal: a) Drupal 7 configured platform with many out-of-the-box features an organization may need for an API Developer portal. b) Drupal 8 module which lets developers build on top of its functionality to build an API Developer portal that&#39;s right just for you.
 
 **Choosing a Hosting Service**
-![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_acquia.png)
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_acquia.png">
 The solution of choice for hosting Drupal is Acquia. Drupal is not always free! In order to monetize Drupal, in 2007, the leaders from the Drupal Association including Dries Buytaert himself decided to spin off a company to provide an end-to-end hosting solution for Drupal sites specifically.
 
 This is the key advantage of Acquia that sets them apart from the rest of the hosting solutions. Acquia is a PaaS solution catered specifically to Drupal. This means that all the components that are required for large scale enterprise Drupal projects to run in high scalability environments are provided out-of-the-box. This includes integration with Apache Solr search, HTTP caching, database caching, and performance monitoring all configured by the Acquia Team. Even security patches to your Drupal core code are provided by their support team. No other service is out there like it. On top of the core product offering of cloud services, Acquia has built products which can integrate with your Drupal site to provide functionality like personalization; similar to as AEM offers. This whole product offering has placed Drupal into a solution beyond just a Content Management System (CMS). Acquia Drupal is a Web Content Management (WCM) system which competes with giants like AEM. Acquia Drupal has ranked in the top quadrants of both Gartner and Forrester reports in 2018.
 
-![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/gartner-forrester.png)
+<p align="center">
+  <img src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/gartner-forrester.png">
+</p>
+
 WCM – Gartner 2018 – Magic Quadrant – Acquia Drupal
 WCM – Forrester Q4 2018 – Leader – Acquia Drupal
 
