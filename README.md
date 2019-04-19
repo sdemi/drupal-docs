@@ -17,11 +17,3 @@ For this documentation, we have picked Visual Studio Code editor. It is a small 
   * [phpcs-report - Generate a report for PHP Code Sniffer](https://github.com/sdemi/drupal-docs/blob/master/drupal-scripts-phpcs-report.md)
   * [pushcode - Push code out to checked out repo](https://github.com/sdemi/drupal-docs/blob/master/drupal-scripts-pushcode.md)
   * [updatecode - Update code from checked out repo](https://github.com/sdemi/drupal-docs/blob/master/drupal-scripts-updatecode.md)
-* Drupal testing
-  * Creating unit tests
-  * Automated unit testing using CD/CI
-* Performance
-  * Contrib modules
-* Security
-  * Updating/patching
-  * Contrib modules
