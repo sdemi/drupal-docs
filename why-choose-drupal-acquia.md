@@ -25,7 +25,8 @@ This allows Drupal projects to be--
 3. Drupal is much faster and easier to build than AEM.
 4. Drupal provides many more options in terms of features that can be combined from the community and hosting as you are not locked in to the features and server solutions with AEM.
 
-<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png"> This is why companies like Apigee are choosing Drupal.
+This is why companies like Apigee are choosing Drupal.
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png">
 1. High Interoperability allowing Drupal to be configured easily with REST.
 2. Low cost, fast build times, and ease of development.
 
