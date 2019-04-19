@@ -1,7 +1,7 @@
 # **Why choose Drupal &amp; Acquia**
 
 **Why Drupal?**
-![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo-drupal.png)
+![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo-drupal.png){:style="float:left;margin:2px;"}
 Drupal is a Content Management System (CMS) originally developed by Dries Buytaert in 2001. Drupal is an Open Source project that is backed by the Drupal Association organization and has a community of over 100,000 actively contributing members. The Open Source model provides one of the largest communities in the world. Built around the concepts of Linux, Drupal provides a highly extensible framework which emphasizes on security and performance. Drupal 8 is built on top of the Symphony PHP framework which ensures developers are writing highly structured code using Object Oriented Programming (OOP).
 ![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_symphony.png)
 This highly extendable framework that&#39;s built on top of an Open Source community has fostered a key advantage of Drupal - contributed modules. Drupal modules are sub-projects built by the contributors of the community which extend Drupal&#39;s functionality into endless features.
