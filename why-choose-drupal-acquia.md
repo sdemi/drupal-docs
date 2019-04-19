@@ -6,7 +6,9 @@
 
 This highly extendable framework that&#39;s built on top of an Open Source community has fostered a key advantage of Drupal - contributed modules. Drupal modules are sub-projects built by the contributors of the community which extend Drupal&#39;s functionality into endless features.
 As of today, there are over 42,000 modules available for download. For example, a Single-Sign-On implementation can be provided by almost all 3rd party libraries and modules. In fact, we have done a short study of the code structure of a mid-sized Drupal project for an enterprise client. The final results are pretty astonishing – with custom code only attributing to less than 1% of the total codebase!
+
 <img align="center" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/total-drupal-code.png">
+
 This allows Drupal projects to be--
 1. Built quickly - by reusing the many available modules in the Open Source community.
 2. Have high quality code - by leveraging publicly built code and limiting custom code to a minimum, the overall quality of the code provides very high standards.
