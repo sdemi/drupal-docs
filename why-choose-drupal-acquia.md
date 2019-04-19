@@ -50,6 +50,7 @@ WCM – Gartner 2018 – Magic Quadrant – Acquia Drupal
 
 WCM – Forrester Q4 2018 – Leader – Acquia Drupal
 
+
 Also available in format:
 * [Word](https://github.com/sdemi/drupal-docs/blob/master/assets/why-choose-drupal-acquia/Why%20choose%20Drupal%20%26%20Acquia.docx)
 * [PDF](https://github.com/sdemi/drupal-docs/blob/master/assets/why-choose-drupal-acquia/Why%20choose%20Drupal%20%26%20Acquia.pdf)
