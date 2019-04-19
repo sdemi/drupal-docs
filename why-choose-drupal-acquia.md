@@ -17,16 +17,15 @@ This allows Drupal projects to be--
 3. Having high cost efficacy - since there is no subscription costs and a lot of code can be leveraged, costs associated with building a Drupal site are much smaller.
 
 **Comparing Drupal**
-![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_aem.png)
-When comparing Drupal to a behemoth giant like Adobe Experience Manager (AEM) the differences are staggering. AEM is a all-in-one platform for enterprises. It includes an end-to-end solution which bulks all the features an enterprise might want into a single solution. This sounds great, but this carries a heavy burden.
+
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_aem.png"> When comparing Drupal to a behemoth giant like Adobe Experience Manager (AEM) the differences are staggering. AEM is a all-in-one platform for enterprises. It includes an end-to-end solution which bulks all the features an enterprise might want into a single solution. This sounds great, but this carries a heavy burden.
 
 1. AEM is very expensive.
 2. AEM is a proprietary platform thus providing a totalitarian approach; versus Drupal which fosters a Democratic government system of the platform.
 3. Drupal is much faster and easier to build than AEM.
 4. Drupal provides many more options in terms of features that can be combined from the community and hosting as you are not locked in to the features and server solutions with AEM.
 
-This is why companies like Apigee are choosing Drupal.
-![](https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png)
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png"> This is why companies like Apigee are choosing Drupal.
 1. High Interoperability allowing Drupal to be configured easily with REST.
 2. Low cost, fast build times, and ease of development.
 
