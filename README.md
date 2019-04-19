@@ -6,6 +6,7 @@ For this documentation, we have picked Visual Studio Code editor. It is a small 
   * [Software Stack](https://github.com/sdemi/drupal-docs-private/blob/master/slides-software-stack.pptx)
   * [Enterprise Infrastructure](https://github.com/sdemi/drupal-docs-private/blob/master/slides-enterprise-infrastructure.pptx)
   * [Drupal vs. Custom Code](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-code-count.pptx)
+* [Why choose Drupal & Acquia](https://github.com/sdemi/drupal-docs/blob/master/why-choose-drupal-acquia.md)
 * Local environment
   * [Local environment setup using virtual host](https://github.com/sdemi/drupal-docs/blob/master/local-environment-setup-using-virtual-host.md)
   * [Setup Visual Studio Code with Drupal Coding Standards](https://github.com/sdemi/drupal-docs/blob/master/visual-studio-code.md)
