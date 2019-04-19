@@ -2,13 +2,13 @@
 
 **Why Drupal?**
 
-<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo-drupal.png"> Drupal is a Content Management System (CMS) originally developed by Dries Buytaert in 2001. Drupal is an Open Source project that is backed by the Drupal Association organization and has a community of over 100,000 actively contributing members. The Open Source model provides one of the largest communities in the world. Built around the concepts of Linux, Drupal provides a highly extensible framework which emphasizes on security and performance. Drupal 8 is built on top of the Symphony PHP framework which ensures developers are writing highly structured code using Object Oriented Programming (OOP). <img align="right" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_symphony.png">
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo-drupal.png"> Drupal is a Content Management System (CMS) originally developed by Dries Buytaert in 2001. Drupal is an Open Source project that is backed by the Drupal Association organization and has a community of over 100,000 actively contributing members. The Open Source model provides one of the largest communities in the world. Built around the concepts of Linux, Drupal provides a highly extensible framework which emphasizes on security and performance. <img align="right" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_symphony.png"> Drupal 8 is built on top of the Symphony PHP framework which ensures developers are writing highly structured code using Object Oriented Programming (OOP).
 
 This highly extendable framework that&#39;s built on top of an Open Source community has fostered a key advantage of Drupal - contributed modules. Drupal modules are sub-projects built by the contributors of the community which extend Drupal&#39;s functionality into endless features.
 As of today, there are over 42,000 modules available for download. For example, a Single-Sign-On implementation can be provided by almost all 3rd party libraries and modules. In fact, we have done a short study of the code structure of a mid-sized Drupal project for an enterprise client. The final results are pretty astonishing – with custom code only attributing to less than 1% of the total codebase!
-
-<img align="center" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/total-drupal-code.png">
-
+<p align="center">
+  <<img src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/total-drupal-code.png">
+</p>
 This allows Drupal projects to be--
 1. Built quickly - by reusing the many available modules in the Open Source community.
 2. Have high quality code - by leveraging publicly built code and limiting custom code to a minimum, the overall quality of the code provides very high standards.
