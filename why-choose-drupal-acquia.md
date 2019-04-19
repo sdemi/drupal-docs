@@ -25,7 +25,9 @@ This allows Drupal projects to be--
 3. Drupal is much faster and easier to build than AEM.
 4. Drupal provides many more options in terms of features that can be combined from the community and hosting as you are not locked in to the features and server solutions with AEM.
 
-<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png"> This is why companies like Apigee are choosing Drupal. 1. High Interoperability allowing Drupal to be configured easily with REST.
+<img align="left" src="https://github.com/sdemi/drupal-docs/raw/master/assets/why-choose-drupal-acquia/logo_apigee.png"> This is why companies like Apigee are choosing Drupal.
+<br/>
+1. High Interoperability allowing Drupal to be configured easily with REST.
 2. Low cost, fast build times, and ease of development.
 
 Apigee offers a few options for an API Developer portal: a) Drupal 7 configured platform with many out-of-the-box features an organization may need for an API Developer portal. b) Drupal 8 module which lets developers build on top of its functionality to build an API Developer portal that&#39;s right just for you.
@@ -44,7 +46,7 @@ This is the key advantage of Acquia that sets them apart from the rest of the ho
 WCM – Gartner 2018 – Magic Quadrant – Acquia Drupal
 
 WCM – Forrester Q4 2018 – Leader – Acquia Drupal
-<br/><br/><br/>
+<br/><br/><br/><br/>
 Also available in format:
 * [Word](https://github.com/sdemi/drupal-docs/blob/master/assets/why-choose-drupal-acquia/Why%20choose%20Drupal%20%26%20Acquia.docx)
 * [PDF](https://github.com/sdemi/drupal-docs/blob/master/assets/why-choose-drupal-acquia/Why%20choose%20Drupal%20%26%20Acquia.pdf)
