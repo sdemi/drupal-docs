@@ -6,6 +6,7 @@
   * [Software Stack](https://github.com/sdemi/drupal-docs-private/blob/master/slides-software-stack.pptx)
   * [Enterprise Infrastructure](https://github.com/sdemi/drupal-docs-private/blob/master/slides-enterprise-infrastructure.pptx)
   * [Drupal vs. Custom Code](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-code-count.pptx)
+* [Drupal Nonfunctional Requirements (NFR)](https://github.com/sdemi/drupal-docs/blob/master/nfr.md)
 
 For this documentation, we have picked Visual Studio Code editor. It is a small based IDE that gives all the features a modern Drupal developer's needs. It's free and it has decent documentation online.
 
