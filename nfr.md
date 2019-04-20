@@ -1,4 +1,4 @@
-# Nonfunctional Requirements (NFR)
+# Drupal Nonfunctional Requirements (NFR)
 
 The Nonfunctional Requirements (NFRs) document will serve as a guideline for the project's features and requirements outside of SCRUM planning. The said requirements are modeled against best practices of (WCM) industry (en.wikipedia.org/wiki/Web_content_management_system). The topics for these requirements are included in the Table of Contents below:
 
@@ -50,19 +50,18 @@ The Nonfunctional Requirements (NFRs) document will serve as a guideline for the
 * Each user story will be tagged under a Feature.
 * Each Feature will be tagged under an Epic.
 * Stand up calls will be conducted daily with Team, Architect, Project Manager and Product Owner to give updates on user stories.
-* Critical hot-fixes to production will supersede all project priorities.
+* Critical hot-fixes to production will supersede all user stories.
 
 ## Security
 
 * Developers and Senior Developers will not have admin user role assignment on production.
-* On production website, all users will be required to login using Caterpillar's CWS single-sign on service.
 * An admin account backdoor login will only be shared with Product Owner and Architect.
 * Access to production database will only be accessible by production web node servers.
 * Access to production's hosting administrative interface will only be accessible to Product Owner and Architect.
 * Drupal critical security patches to core and contributed modules will be deployed to production within 3 non-business days.
 * Admin access will always be provided via Drush or Drupal Console CLI.
 
-**Reference Studies** (sorted by date as earliest)
+## Reference
 
 * Drupal. (2019). Coding standards. Retrieved from  https://www.drupal.org/docs/develop/standards
 * Wikipedia. (2019, February 10). Web content management system. Retrieved from https://en.wikipedia.org/wiki/Web_content_management_system
