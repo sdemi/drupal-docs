@@ -1,5 +1,5 @@
 * [Why choose Drupal & Acquia](https://github.com/sdemi/drupal-docs/blob/master/why-choose-drupal-acquia.md)
-* [Drupal Growth Opportunities within your Enterprise](https://github.com/sdemi/drupal-docs/blob/master/drupal-growth-opportunities-within-your-enterprise.md) (Coming Soon)
+* [Drupal Growth Opportunities within your Enterprise](https://github.com/sdemi/drupal-docs/blob/master/drupal-growth-opportunities-within-your-enterprise.md) (coming soon)
 * Drupal presentation slides (private access)
   * [Why Drupal?](https://github.com/sdemi/drupal-docs-private/blob/master/slides-why-drupal.pptx)
   * [Drupal Architecture](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-arch.pptx)
@@ -9,7 +9,7 @@
 
 For this documentation, we have picked Visual Studio Code editor. It is a small based IDE that gives all the features a modern Drupal developer's needs. It's free and it has decent documentation online.
 
-* Local environment
+* Local environment setup
   * [Local environment setup using virtual host](https://github.com/sdemi/drupal-docs/blob/master/local-environment-setup-using-virtual-host.md)
   * [Setup Visual Studio Code with Drupal Coding Standards](https://github.com/sdemi/drupal-docs/blob/master/visual-studio-code.md)
   * [Setup Visual Studio Code with a PHP Debugger](https://github.com/sdemi/drupal-docs/blob/master/visual-studio-code-xdebug.md)
