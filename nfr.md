@@ -1,6 +1,6 @@
 # Drupal Nonfunctional Requirements (NFR)
 
-The Nonfunctional Requirements (NFRs) document will serve as a guideline for the project's features and requirements outside of SCRUM planning. The said requirements are modeled against best practices of (WCM) industry (en.wikipedia.org/wiki/Web_content_management_system). The topics for these requirements are included in the Table of Contents below:
+The Nonfunctional Requirements (NFRs) document will serve as a guideline for the project's features and requirements outside of SCRUM planning. The said requirements are modeled against best practices of (WCM) industry (https://en.wikipedia.org/wiki/Web_content_management_system). The topics for these requirements are included in the Table of Contents below:
 
 ## Audit
 
