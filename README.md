@@ -1,3 +1,4 @@
+* [Drupal Onboarding](https://github.com/sdemi/drupal-docs/blob/master/drupal-onboarding.md)
 * [Why choose Drupal & Acquia](https://github.com/sdemi/drupal-docs/blob/master/why-choose-drupal-acquia.md)
 * [Drupal Growth Opportunities within your Enterprise](https://github.com/sdemi/drupal-docs/blob/master/drupal-growth-opportunities-within-your-enterprise.md) (coming soon)
 * Drupal presentation slides (private access)
