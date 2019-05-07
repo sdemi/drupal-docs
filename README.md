@@ -1,7 +1,7 @@
 # Pitching Drupal #
 * [Why choose Drupal & Acquia](https://github.com/sdemi/drupal-docs/blob/master/why-choose-drupal-acquia.md)
 * [Drupal Growth Opportunities within your Enterprise](https://github.com/sdemi/drupal-docs/blob/master/drupal-growth-opportunities-within-your-enterprise.md) (coming soon)
-* Drupal presentation slides (private access)
+* Drupal presentation slides:
   * [Why Drupal?](https://github.com/sdemi/drupal-docs-private/blob/master/slides-why-drupal.pptx)
   * [Drupal Architecture](https://github.com/sdemi/drupal-docs-private/blob/master/slides-drupal-arch.pptx)
   * [Software Stack](https://github.com/sdemi/drupal-docs-private/blob/master/slides-software-stack.pptx)
