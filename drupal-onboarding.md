@@ -12,5 +12,5 @@ After this, for site building training, I would recommend this course to get you
 Further, for theming and module development, I would recommend the Chapter Three training. This training is hands on, uses best practices, and it's from a really good Drupal consultancy (http://chapterthree.com).
 
 They have a couple trainings you should work through:
-* **Drupal theming** - https://github.com/chapter-three/drupal-8-theming
-* **Drupal backend** - https://github.com/chapter-three/drupal-8-backend
+* **Drupal 8 theming** - https://github.com/chapter-three/drupal-8-theming
+* **Drupal 8 backend** - https://github.com/chapter-three/drupal-8-backend
