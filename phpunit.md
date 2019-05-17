@@ -7,8 +7,6 @@
 
 ## Testing Sample Code
 
-**Code:**
-
 ```
 <?php
 
